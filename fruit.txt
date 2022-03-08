@@ -2,3 +2,4 @@ apple
 pear
 plum-apricot
 strawbery
+banana
